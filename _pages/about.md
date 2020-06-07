@@ -5,6 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I'm a geospatial data analyst and GIS and remote sensing specialist. I just started my journey in data science. I believe in combining data science and geospatial analysis is the key to solve many environmental problems in the future.
