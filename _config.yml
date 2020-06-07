@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Saddam Hussein"
-  avatar           : "/imagesSelfie di Deuter Bandung.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Selfie di Deuter Bandung.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Spatial Data Science Portfolio"
   location         : "Bogor, Indonesia"
   email            :
